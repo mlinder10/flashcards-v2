@@ -1,0 +1,11 @@
+Frontend:
+- show users payment options
+- handle calls to generate when users have no payment
+
+Backend:
+
+
+Other:
+- set up nodemailer
+  - https://medium.com/@y.mehnati_49486/how-to-send-an-email-from-your-gmail-account-with-nodemailer-837bf09a7628
+- set up stripe
